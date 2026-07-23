@@ -23,6 +23,9 @@ https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b0861
 #EXTINF:-1 tvg-name="Tolo HD" group-title="Afghanistan",Tolo HD
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="Tolo News" group-title="Afghanistan",Tolo News
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="RTA" group-title="Afghanistan",RTA
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8
 
