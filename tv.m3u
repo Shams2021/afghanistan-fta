@@ -74,3 +74,7 @@ http://live.urdustreamz.net:1935/live_transcoder/ngrp:zindagitv.stream_all/playl
 
 #EXTINF:-1 tvg-name="1TV Afghanistan" group-title="Afghanistan",1TV Afghanistan
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-1tvafg/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Dari 24" group-title="Afghanistan",Dari 24
+https://2nbyjj2by53k-hls-live.5centscdn.com/783_push_403/9dd8b07c957bd058ddcf9fd698c3406b.sdp/live/783_push_403dari24/chunks.m3u8
+
